@@ -1,0 +1,14 @@
+tmp/
+*_old
+*_backup
+img/Thumbs.db
+*.DS_Store
+.idea/*
+/**/target
+/**/out/*
+/**/*.iml
+/**/*.ipr
+/**/*.iws
+.gradle/*
+/**/**/target
+/**/transaction-logs/*
